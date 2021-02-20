@@ -1,6 +1,3 @@
-# zenn-metadata-updater-action
-GitHub Action to update metadata in Zenn markdown file.
-
 # Hello world javascript action
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
